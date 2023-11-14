@@ -1,0 +1,6 @@
+Nume: Ion
+Prenume: Alexandru
+Data: 31.5.2024
+Ora: 16:00
+Medic: Dr. Georgescu
+--------------------
