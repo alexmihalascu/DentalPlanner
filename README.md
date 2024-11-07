@@ -1,25 +1,26 @@
-# DentalPlanner
 
-## Descriere
-DentalPlanner este un mini proiect dedicat planificării și gestionării activităților în domeniul stomatologic.
+# 🦷 DentalPlanner
 
-## Imagini din Aplicație
+## 📝 Description
+**DentalPlanner** is a mini-project dedicated to planning and managing activities in the dental field.
 
-![Imagine Aplicație 1](https://i.imgur.com/JDB7tnp.png)
-![Imagine Aplicație 2](https://i.imgur.com/LTpU7xk.png)
-![Imagine Aplicație 3](https://i.imgur.com/g11uNV1.png)
+## 📸 Screenshots
 
-## Funcționalități
-- Relizare programare la medic
-- Listă medici
-- Program de lucru
+![App Image 1](https://i.imgur.com/JDB7tnp.png)
+![App Image 2](https://i.imgur.com/LTpU7xk.png)
+![App Image 3](https://i.imgur.com/g11uNV1.png)
 
-## Date de logare
-- username: tesla
-- parola: modelx
+## ✨ Features
+- Appointment booking with the dentist
+- List of available dentists
+- Working hours overview
 
-## Contribuții
-Contribuțiile la acest proiect sunt binevenite! Dacă ai sugestii de îmbunătățire sau vrei să adaugi noi funcționalități, te rog să deschizi un issue sau să trimiti un pull request.
+## 🔐 Login Details
+- **Username**: tesla
+- **Password**: modelx
 
-## Licență
-Acest proiect este distribuit sub licența MIT&#8203;``【oaicite:0】``&#8203;.
+## 🛠️ Contributions
+Contributions to this project are welcome! If you have improvement suggestions or wish to add new features, please open an issue or submit a pull request.
+
+## 📄 License
+This project is distributed under the MIT License.
